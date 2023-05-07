@@ -40,6 +40,8 @@
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 </div><br/>
   
 ## Banco de dados
@@ -60,3 +62,4 @@
 </div><br/>
   
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+![Snake animation)(https://github.com/Ericlecio/Ericlecio/blob/output/github-contribution-grid-snake.svg)
