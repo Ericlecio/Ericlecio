@@ -63,20 +63,3 @@
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />  
   <img align="center" alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
-
-**Estatísticas GitHub**:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericlecio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericlecio&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
-## Contribuições no GitHub 📊
-Aqui está um gráfico de minhas contribuições no GitHub ao longo dos últimos meses:
-![GitHub contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Ericlecio&theme=react)
-
-## Contribuições Mensais
-![Contador de Contribuições](https://github.com/Ericlecio/Ericlecio/blob/main/.github/graph.svg)
-
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
