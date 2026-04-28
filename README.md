@@ -2,9 +2,9 @@
 
 **Backend Software Engineer | Engenheiro de Dados**
 
-Sou desenvolvedor focado em sistemas de alta disponibilidade e processamento de grandes volumes de dados. No dia a dia, mantenho APIs em produção e gerencio pipelines de dados, sempre buscando me manter atualizado com as novas tecnologias e melhores práticas da área. Além da atuação no mercado, sigo a linha de pesquisa acadêmica com mestrado em Ciência da Computação pela UFPE e sou autor da patente do Pulse Security, focada em Machine Learning.
+Sou desenvolvedor focado em sistemas de alta disponibilidade e processamento de grandes volumes de dados. No dia a dia, mantenho APIs em produção e gerencio pipelines de dados, sempre procurando manter-me atualizado com as novas tecnologias e melhores práticas da área. Além da atuação no mercado, sigo a linha de pesquisa académica com mestrado em Ciência da Computação pela UFPE e sou autor da patente do Pulse Security, focada em Machine Learning.
 
-Acredito que a engenharia de software vai além do código. Além das minhas habilidades em engenharia, sou conhecido pela minha comunicação clara e gentil, promovendo um ambiente de trabalho colaborativo. Minha prioridade é entregar soluções resilientes enquanto contribuo para um clima positivo e produtivo no time.
+Acredito que a engenharia de software vai além do código. Além das minhas habilidades em engenharia, sou conhecido pela minha comunicação clara e gentil, promovendo um ambiente de trabalho colaborativo. Minha prioridade é entregar soluções resilientes enquanto contribuo para um clima positivo e produtivo na equipa.
 
 ### Tecnologias e Ferramentas
 
@@ -20,6 +20,7 @@ Acredito que a engenharia de software vai além do código. Além das minhas hab
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](#cqrs-banking)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#projetos)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#omnistream)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Nuvem e Infraestrutura**
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#omnistream)
@@ -64,7 +65,7 @@ Acredito que a engenharia de software vai além do código. Além das minhas hab
   <img src="https://komarev.com/ghpvc/?username=Ericlecio&style=flat&color=0077B5" alt="visitantes" />
 </div>
 
-### Contato
+### Contacto
 <div align="left">
   <a href="https://www.linkedin.com/in/ericlecio-thiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:ericleciojr14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
