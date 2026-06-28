@@ -2,9 +2,7 @@
 
 **Backend Software Engineer | Engenheiro de Dados**
 
-Sou desenvolvedor focado em sistemas de alta disponibilidade e processamento de grandes volumes de dados. No dia a dia, mantenho APIs em produção e gerencio pipelines de dados, sempre procurando manter-me atualizado com as novas tecnologias e melhores práticas da área. Além da atuação no mercado, sigo a linha de pesquisa académica com mestrado em Ciência da Computação pela UFPE e sou autor da patente do Pulse Security, focada em Machine Learning.
-
-Acredito que a engenharia de software vai além do código. Além das minhas habilidades em engenharia, sou conhecido pela minha comunicação clara e gentil, promovendo um ambiente de trabalho colaborativo. Minha prioridade é entregar soluções resilientes enquanto contribuo para um clima positivo e produtivo na equipa.
+Desenvolvedor focado em sistemas de alta disponibilidade e processamento de dados. Atuo na manutenção de APIs e no gerenciamento de pipelines de dados. Em paralelo ao mercado, sou mestrando em Ciência da Computação pela UFPE e autor da patente do Pulse Security (Machine Learning). Priorizo a entrega de soluções resilientes e o trabalho em equipe, unindo boa comunicação à engenharia de software.
 
 ### Tecnologias e Ferramentas
 
@@ -39,21 +37,6 @@ Acredito que a engenharia de software vai além do código. Além das minhas hab
 **Ferramentas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<a name="projetos"></a>
-### Projetos em Destaque
-
-<a name="aegis-identity"></a>
-**[Aegis-B2B-Identity](https://github.com/Ericlecio/Aegis-B2B-Identity)** Engine de IAM (Identity and Access Management) multi-tenant construída para aplicações B2B.  
-- **Destaque:** Isolamento multi-tenant via contexto de segurança e uso de **Redis** para blacklist de tokens e **Spring Security 6** para proteção contra vulnerabilidades.
-
-<a name="cqrs-banking"></a>
-**[cqrs-event-sourcing-banking-api](https://github.com/Ericlecio/cqrs-event-sourcing-banking-api)** API bancária distribuída focada em padrões arquiteturais complexos.  
-- **Destaque:** Implementação de **CQRS** e **Event Sourcing** com **Apache Kafka**, garantindo alta escalabilidade e persistência em **PostgreSQL** dentro de containers **Docker**.
-
-<a name="omnistream"></a>
-**[OmniStream Engine](https://github.com/Ericlecio/OmniStream)** Pipeline de dados em tempo real (EDA) com arquitetura Serverless.  
-- **Destaque:** Ingestão via **AWS Lambda** e **SQS**, com infraestrutura gerenciada via **Terraform**.
 
 ### Estatísticas
 <div align="center">
