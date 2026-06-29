@@ -1,8 +1,6 @@
 # Ericlecio Morais
 
-**Backend Software Engineer | Engenheiro de Dados**
-
-Desenvolvedor focado em sistemas de alta disponibilidade e processamento de dados. Atuo na manutenção de APIs e no gerenciamento de pipelines de dados. Em paralelo ao mercado, sou mestrando em Ciência da Computação pela UFPE e autor da patente do Pulse Security (Machine Learning). Priorizo a entrega de soluções resilientes e o trabalho em equipe, unindo boa comunicação à engenharia de software.
+**Software Engineer **
 
 ### Tecnologias e Ferramentas
 
