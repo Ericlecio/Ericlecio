@@ -1,6 +1,7 @@
 # Ericlecio Morais
 
-**Software Engineer **
+### Software Engineer | 
+
 
 ### Tecnologias e Ferramentas
 
